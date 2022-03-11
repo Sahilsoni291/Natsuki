@@ -6,7 +6,7 @@
 
 ## ⚡ It is no longer based on this source code. The completely rewritten bot available now on telegram
 
-- ![GitHub repo size](https://img.shields.io/github/repo-size/Sadew451/NK?label=Repo%20Size)
+- ![GitHub repo size](https://img.shields.io/github/repo-size/Sahilsoni291/NK?label=Repo%20Size)
 
 <p align="center">
     <a href="https://python.org">
